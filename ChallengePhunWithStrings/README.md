@@ -1,0 +1,2 @@
+# String Manipulation
+This challenge has four smaller parts, currently commented out in the code but they will run if you un-comment them. They each used a different set of methods to manipulate strings, reverse, replace, insert, etc. My biggest take away from this project was stepping back from the assignment to look at requirements in small, manageable pieces. Once I could get a small part working, I could build on it and keep moving forward one step at a time.
