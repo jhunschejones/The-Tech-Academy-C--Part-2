@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C--Part-2\DartGame\Dart\bin\Debug\Dart.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C--Part-2\DartGame\Dart\bin\Debug\Dart.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C--Part-2\DartGame\Dart\obj\Debug\Dart.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C--Part-2\DartGame\Dart\obj\Debug\Dart.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C--Part-2\DartGame\Dart\obj\Debug\Dart.pdb
