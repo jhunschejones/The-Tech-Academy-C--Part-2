@@ -13,5 +13,11 @@ namespace CardWar
         {
 
         }
+
+        protected void playButton_Click(object sender, EventArgs e)
+        {
+            Game game = new Game("Player 1", "Player 2");
+            resultLabel.Text = game.Play();
+        }
     }
 }

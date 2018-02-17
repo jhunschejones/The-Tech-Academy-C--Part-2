@@ -9,6 +9,7 @@ namespace CardWar
     {
         private List<Card> _deck;
         private Random _random;
+        public string result;
 
         public Deck() // constructor
         {
@@ -74,13 +75,23 @@ namespace CardWar
 
         }
 
-        public void Deal(Player player1, Player player2)
+        public string Deal(Player player1, Player player2)
         {
             while (_deck.Count > 0)
             {
-
+                dealCard(player1);
+                dealCard(player2);
             }
+            return result;
         }
 
+        public void dealCard(Player player)
+        {
+            Card card = _deck.ElementAt(_random.Next(_deck.Count));
+            player.Cards.Add(card);
+            _deck.Remove(card);
+
+            result += "<br />" + player.Name + " is delt the " + card.Kind + " of " + card.Suit;
+        }
     }
 }
