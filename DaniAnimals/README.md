@@ -7,3 +7,11 @@ I created this project using Visual Studio’s ASP.NET MVC scaffolding to provide 
 
 ## Outcome
 The final product looks very simple, but it meets the functional requirements and provides the framework for smoothing out the interface in the future if needed. It was fun to see what the MVC framework is capable of in a short span of time, especially if this is the type of application you need!
+
+### Screen Captures
+![Home Page](./index.png "Index")
+![View Details](./details.png "View Details")
+![Edit](./edit.png "Edit")
+![Delete](./delete.png "Delete")
+![Create New](./create.png "Create New")
+
