@@ -2,4 +2,4 @@
 * text=auto
 
 *.js linguist-vendored
-*.ps1 linguist-vendored=true
+*.ps1 linguist-vendored=false
